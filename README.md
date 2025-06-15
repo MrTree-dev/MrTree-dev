@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Mikhail! 
 
-<!--
-**MrTree-dev/MrTree-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Python Developer** from Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+I develop Telegram bots using Python and the **aiogram** framework, focusing on clean architecture, scalability, and fault tolerance. I build features like user authentication, payments, third-party API integration, and multilingual support. Passionate about automation and turning ideas into working solutions..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Programming Languages:
+- **PHP**
+- **Python**
+- **JavaScript**
+
+### ⚙️ Backend / Frameworks:
+- **aiogram (Telegram bots)**
+- **FastAPI (asynchronous web framework)**
+- **Django**
+- **Flask**
+- **Selenium (browser automation)**
+
+### 🗄️ Databases:
+- **MySQL**
+- **PostgreSQL**
+
+### 🎯 Frameworks:
+- **Django** (Primary stack)
+- **Flask**
+
+### 🌐 Markup & Styling:
+- **HTML**
+- **CSS**
+
+### 🧠 Tools & Technologies:
+- **asyncio / aiohttp**
+- **Docker**
+- **Git**
+- **REST API / WebSocket**
+- **Jinja2 / Pydantic / SQLAlchemy**
+
+### ☁️ Deployment & Hosting:
+- **Heroku**
+- **Render**
+- **Railway**
+- **VPS (Ubuntu)**
+
+---
+
+## 🔗 Find me on:
+
+- 🌐 [My Freelancehunt Profile](https://freelancehunt.com/freelancer/MrTree-dev.html)
+- 📧 [Email me](mailto:michaelgrechikhin@gmai.com)
+
+---
+
+Let's build something great together! 🚀
