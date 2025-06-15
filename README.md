@@ -24,10 +24,6 @@ I develop Telegram bots using Python and the **aiogram** framework, focusing on 
 - **MySQL**
 - **PostgreSQL**
 
-### 🎯 Frameworks:
-- **Django** (Primary stack)
-- **Flask**
-
 ### 🌐 Markup & Styling:
 - **HTML**
 - **CSS**
